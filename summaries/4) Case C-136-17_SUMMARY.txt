@@ -1,0 +1,55 @@
+2 The request has been made in proceedings between GC, AF, BH and ED and the Commission 
+nationale de l’informatique et des libertés (French Data Protection Authority, France) (‘the CNIL’) 
+concerning four decisions of the CNIL refusing to serve formal notice on Google Inc., now Google 
+LLC, to de-reference various links appearing in the lists of results displayed following searches of their 
+names and leading to web pages published by third parties. Member States shall provide that personal data must be: 
+(a) processed fairly and lawfully; 
+ECLI:EU:C:2019 :773 3 
+JUDGMENT OF 24. However, a complete register of criminal convictions 
+may be kept only under the control of official authority. Member States may provide that data relating to administrative sanctions or judgments in civil cases 
+shall also be processed under the control of official authority. Each supervisory authority shall hear claims lodged by any person, or by an association representing 
+that person, concerning the protection of his rights and freedoms in regard to the processing of 
+personal data. The person concerned shall be informed of the outcome of the claim. Each authority may be requested to exercise its powers by an authority 
+of another Member State. The supervisory authorities shall cooperate with one another to the extent necessary for the 
+performance of their duties, in particular by exchanging all useful information. 17 Article 9 of Regulation 2016 /679, headed ‘Processing of special categories of personal data’, provides: 
+‘1. 2019 — CASE C-136/17  
+GC AND OTHERS (DE-REFERENCING OF SENSITIVE DATA)  
+20 Article 21 of Regulation 2016 /679, headed ‘Right to object’, provides in paragraph 1: 
+‘The data subject shall have the right to object, on grounds relating to his or her particular situation, at 
+any time to processing of personal data concerning him or her which is based on point (e) or (f) of 
+Article 6(1), including profiling based on those provisions. The photomontage 
+was placed online during the campaign for the cantonal elections in which GC was then a candida te. AF is mentioned in that article in his capacity as public relations 
+officer of the Church of Scientology, an occupation which he has since ceased to exercise. Furthermore, the author of the article states that he contacted AF in order to obtain his version of the 
+facts and describes the comme nts received on that occasion. The proceedings against him 
+were closed by an order discharging him on 26 February 2010 . Most of the links are to articles 
+contemp oraneous with the opening of the investigation and therefore do not mention the outcome of 
+the proceedings. 29 Following the rejections by Google of their requests for de-referencing, the applicants in the main 
+proceedings brought complaints before the CNIL, seeking for Google to be ordered to de-reference 
+the links in question. That directive was repealed with effect from 
+25 May 2018 , from which date Regulation 2016 /679 applies. On the contrary, as already pointed out in paragraph 37 above, it follows from the 
+general scheme of those instruments that the operator of a search engine must, in the same way as 
+any other controller, ensure, in the context of his responsibilities, powers and capabilities, that the 
+processing of personal data carried out by him complies with the respective requirements of Directive 
+95/46 or Regulation 2016 /679. 45 While, contrary to the submissions of Google in particular, the specific features of the processing 
+carried out by the operator of a search engine in connection with the activity of the search engine 
+cannot thus justify the operator being exemp ted from compliance with Article 8(1) and (5) of Directive 
+95/46 and Article 9(1) and Article 10 of Regulation 2016 /679, those specific features may, however, 
+have an effect on the extent of the operator’s responsibility and obligations under those provisions. Among 
+those grounds is, in Article 17(3)(a) of the regulation, the exercise of the right of freedom of 
+expression and information. Question 3 
+70 As this question is asked only in the event that Question 1 is answered in the negative, there is no 
+need to answer it, given the affirmative answer to Question 1. As the Commission observed, such processing may, by virtue of those provisions and subject to 
+compliance with the other conditions of lawfulness laid down by that directive, be lawful in particular 
+if appropriate and specific guarantees are provided for by national law, which may be the case where 
+the information in question has been disclosed to the public by the public authorities in compliance 
+with the applicable national law. 2019 — CASE C-136/17  
+GC AND OTHERS (DE-REFERENCING OF SENSITIVE DATA)  
+74 As regards those other conditions of lawfulness, it must be recalled that it follows from the 
+requirements laid down in Article 6(1)(c) to (e) of Directive 95/46, now repeated in Article 5(1)(c) 
+to (e) of Regulation 2016 /679, that even initially lawful processing of accurate data may over time 
+become incompatible with the directive or the regulation where those data are no longer necessary in 
+the light of the purposes for which they were collected or processed. In seeking that fair balance, account must be taken of the essential role played by the 
+press in a democratic society, which includes reporting and comme nting on legal proceedings. Costs 
+80 Since these proceedings are, for the parties to the main proceedings, a step in the action pending 
+before the national court, the decision on costs is a matter for that court. Costs incurred in 
+submitting observations to the Court, other than the costs of those parties, are not recoverable.

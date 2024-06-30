@@ -1,0 +1,76 @@
+2 The request has been made in proceedings between TU and RE, of the one part, and Google LLC, 
+of the other part, concerning a request seeking, first, that articles in which they are identified be 
+de-referenced from the results of a search carried out on the basis of their names and, second, 
+that photographs representing them, displayed in the form of preview images (‘thumbnails’), be 
+removed from the results of an image search. The processing of personal data should be designed to serve mankind. 13 Article 16 of the GDPR, entitled ‘Right of rectification’, provides:
+‘The data subject shall have the right to obtain from the controller without undue delay the 
+rectification of inaccurate personal data concerning him or her. 2022 – CASE C-460/20 
+GOOGLE (DE-REFERENCING OF ALLEGEDLY INACCURATE CONTENT )
+(f)the personal data have been collected in relation to the offer of information society services 
+referred to in Article 8(1). He is also the sole shareholder in a third company, which is the 
+sole shareholder in a fourth company, which in turn holds 60% of the shares in a fifth company. 16 RE was TU’s cohabiting partner and, until May 2015, held general commercial power of 
+representation in that fourth company. Various publications criticised G-LLC’s business 
+model, in particular accusing it of attempting to ‘blackmail’ companies by first publishing 
+negative reports regarding those companies and then offering to delete them or prevent their 
+publication, in exchange for a sum of money. In addition, when an 
+image search was conducted on that search engine, Google displayed in the list of results, in the 
+form of thumbnails, the photographs of the applicants in the main proceedings contained in the 
+article of 4 June 2015 . Those photographs ceased being displayed in September 2017, at the 
+latest. The articles ceased to be accessible on the g-net website from 28 June 2018 at the latest. They also claimed to have been victims of ‘blackmail’ by G-LLC. By judgment of 
+22 November 2017 , that court dismissed the action. 23 The applicants in the main proceedings lodged an appeal against that judgment before the 
+Oberlandesgericht Köln (Higher Regional Court, Cologne, Germany). As regards the photographs displayed in the form of thumbnails, they could, 
+in so far as they accompany one of those articles, be regarded as being news images. However, the actual likelihood of obtaining enforcement of any order against the content provider 
+requiring erasure is irrelevant as regards the rights vis-à-vis the operator of the search engine. Similarly, it is well known that the informed average user of an 
+image search engine is aware of the fact that the thumbnails brought together by the search 
+engine in a list of results are taken from third party publications and that the photographs 
+corresponding to those thumbnails are displayed, in those publications, in a particular context. 63 In particular, where the data subject plays a role in public life, that person must display a greater 
+degree of tolerance, since he or she is inevitably and knowingly exposed to public scrutiny (see, to 
+that effect, ECtHR, 6 October 2022 , Khural and Zeynalov v. Azerbaijan, 
+CE:ECHR:2022:1006JUD005506911, § 41 and the case-law cited). However, in order to avoid imposing on 
+that person an excessive burden which is liable to undermine the practical effect of the right to 
+de-referencing, that person has to provide only evidence that, in the light of the circumstances of 
+the particular case, can reasonably be required of him or her to try to find in order to establish that 
+manifest inaccuracy. To impose such an 
+obligation on that person would have the effect of imposing an unreasonable burden on him or 
+her. In so far as it would require the operator of the search engine to contribute 
+ECLI:EU:C:2022:962                                                                                                                15JUDGMENT OF 8. 2022 – CASE C-460/20 
+GOOGLE (DE-REFERENCING OF ALLEGEDLY INACCURATE CONTENT )
+to establishing itself whether or not the referenced content is accurate, such an obligation would 
+impose on that operator a burden in excess of what can reasonably be expected of it in the light of 
+its responsibilities, powers and capabilities, within the meaning of the case-law referred to in 
+paragraph 53 of the present judgment. 73 By contrast, where the inaccuracy of such information found in the referenced content is not 
+obvious, in the light of the evidence provided by the data subject, the operator of the search 
+engine is not required, where there is no such judicial decision, to accede to such a request for 
+de-referencing. 74 It should be added that, in accordance with what has been stated in paragraph 65 of the present 
+judgment, it would also be disproportionate to de-reference articles, with the result that 
+accessing all of them on the internet would be difficult, in a situation where only certain 
+information of minor importance, in relation to the content found in those articles as a whole, 
+proves to be inaccurate. 75 Lastly, it must be stated that, where the operator of a search engine does not grant the request for 
+de-referencing, the data subject must be able to bring the matter before the supervisory authority 
+or the judicial authority so that it carries out the necessary checks and orders that controller to 
+adopt the necessary measures (see, to that effect, judgment of 13 May 2014 , Google Spain and 
+Google (C-131/12 , EU:C:2014:317 , paragraph 77). 76 However, where administrative or judicial proceedings concerning the alleged inaccuracy of 
+information found in referenced content are initiated and where the existence of those 
+proceedings has been brought to the attention of the operator of the search engine concerned, it 
+is for that operator, for the purposes, inter alia, of providing internet users with information which 
+continues to be relevant and up-to-date, to add to the search results a warning concerning the 
+existence of such proceedings. 16                                                                                                                ECLI:EU:C:2022:962JUDGMENT OF 8. First of all, Google takes the view that the subject 
+matter of the dispute in the main proceedings is not a request to de-reference the results of an 
+image search carried out on the basis of the names of the applicants in the main proceedings, but 
+rather a general prohibition on displaying thumbnails corresponding to photographs illustrating 
+one of the three articles at issue in the main proceedings. Photographs are, as such, an important means of 
+attracting internet users’ attention and may encourage an interest in accessing the articles they 
+illustrate. Since, in particular, photographs are often open to a number of interpretations, 
+displaying them in the list of search results as thumbnails may, in accordance with what has been 
+stated in paragraph 95 of the present judgment, result in a particularly serious interference with 
+the data subject’s right to protection of his or her image, which must be taken into account when 
+weighing-up competing rights and interests. In the context of that autonomous assessment, 
+account must be taken of the fact that the display of the photographs in the form of thumbnails 
+on the internet constitutes, in itself, the result sought by the internet user, regardless of his or her 
+subsequent decision to access the original internet page or not. 105 It should be added that such a specific weighing-up exercise, which takes account of the 
+autonomous nature of the data processing performed by the operator of the search engine, is 
+without prejudice to the possible relevance of text elements which may directly accompany the 
+display of a photograph in the list of search results, since such elements are capable of casting 
+light on the informative value of that photograph for the public and, consequently, of influencing 
+the weighing-up of the rights and interests involved. ECLI:EU:C:2022:962                                                                                                                21JUDGMENT OF 8. Costs incurred in 
+submitting observations to the Court, other than the costs of those parties, are not recoverable.

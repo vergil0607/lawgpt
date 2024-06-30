@@ -1,0 +1,112 @@
+2003 — CASE C-101/01 
+JUDGMENT OF THE COURT 
+6 November 2003 * 
+In Case C-101/01, 
+REFERENCE to the Court under Article 234 EC by the Göta hovrätt (Sweden) 
+for a preliminary ruling in the criminal proceedings before that court against 
+Bodil Lindqvist, 
+on, inter alia, the interpretation of Directive 95/46/EC of the European 
+Parliament and of the Council of 24 October 1995 on the protection of 
+individuals with regard to the processing of personal data and on the free 
+movement of such data (OJ 1995 L 281, p. 31), 
+* Language of the case: Swedish. This Directive shall not apply to the processing of personal data: 
+I - 12995 
+JUDGMENT OF 6. However, a complete register 
+of criminal convictions may be kept only under the control of official authority. Member States may provide that data relating to administrative sanctions or 
+judgements in civil cases shall also be processed under the control of official 
+authority. Where the Commission finds, under the procedure provided for in 
+Article 31(2), that a third country does not ensure an adequate level of protection 
+within the meaning of paragraph 2 of this Article, Member States shall take the 
+measures necessary to prevent any transfer of data of the same type to the third 
+country in question. The main proceedings and the questions referred 
+12 In addition to her job as a maintenance worker, Mrs Lindqvist worked as a 
+catechist in the parish of Alseda (Sweden). She followed a data processing course 
+on which she had inter alia to set up a home page on the internet. At her request, the administrator of the Swedish 
+Church's website set up a link between those pages and that site. In many cases family 
+circumstances and telephone numbers and other matters were mentioned. She 
+removed the pages in question as soon as she became aware that they were not 
+appreciated by some of her colleagues. Observations submitted to the Court 
+20 Mrs Lindqvist submits that it is unreasonable to take the view that the mere 
+mention by name of a person or of personal data in a document contained on an 
+I - 13006 
+LINDQVIST 
+internet page constitutes automatic processing of data. In that connection, placing information on an internet page 
+entails, under current technical and computer procedures, the operation of 
+loading that page onto a server and the operations necessary to make that page 
+accessible to people who are connected to the internet. Such operations are 
+performed, at least in part, automatically. The second question 
+28 As the first question has been answered in the affirmative, there is no need to 
+reply to the second question, which arises only in the event that the first question 
+is answered in the negative. The third question 
+29 By its third question, the national court essentially seeks to know whether 
+processing of personal data such as that described in the first question is covered 
+by one of the exceptions in Article 3(2) of Directive 95/46. 32 According to the Netherlands Government, automatic processing of data such as 
+that at issue in the main proceedings does not fall within any of the exceptions in 
+Article 3(2) of Directive 95/46. 35 The Commission argues that Community law is not limited to economic activities 
+connected with the four fundamental freedoms. 2003 — CASE C-101/01 
+38 The first exception concerns the processing of personal data in the course of an 
+activity which falls outside the scope of Community law, such as those provided 
+for by Titles V and VI of the Treaty on European Union, and in any case 
+processing operations concerning public security, defence, State security (includ­
+ing the economic well-being of the State when the processing operation relates to 
+State security matters) and the activities of the State in areas of criminal law. 46 As regards the exception provided for in the second indent of Article 3(2) of 
+Directive 95/46, the 12th recital in the preamble to that directive, which concerns 
+that exception, cites, as examples of the processing of data carried out by a 
+natural person in the exercise of activities which are exclusively personal or 
+domestic, correspondence and the holding of records of addresses. 51 The answer to the fourth question must therefore be that reference to the fact that 
+an individual has injured her foot and is on half-time on medical grounds 
+I - 13014 
+LINDQVIST 
+constitutes personal data concerning health within the meaning of Article 8(1) of 
+Directive 95/46. Observations submitted to the Court 
+53 The Commission and the Swedish Government consider that the loading, using a 
+computer, of personal data onto an internet page, so that they become accessible 
+to nationals of third countries, constitutes a transfer of data to third countries 
+within the meaning of Directive 95/46. 55 The United Kingdom Government submits that Article 25 of Directive 95/46 
+concerns the transfer of data to third countries and not their accessibility from 
+third countries. The term 'transfer' connotes the transmission of personal data 
+from one place and person to another place and person. 58 Information on the internet can be consulted by an indefinite number of people 
+living in many places at almost any time. 59 Under the procedures for use of the internet available to individuals like Mrs 
+Lindqvist during the 1990s, the author of a page intended for publication on the 
+internet transmits the data making up that page to his hosting provider. That 
+provider manages the computer infrastructure needed to store those data and 
+connect the server hosting the site to the internet. It must be stressed that the fifth question asked by the referring court 
+concerns only those activities and not those carried out by the hosting providers. 63 Chapter IV of Directive 95/46, in which Article 25 appears, sets up a special 
+regime, with specific rules, intended to allow the Member States to monitor 
+transfers of personal data to third countries. I - 13018 
+LINDQVIST 
+65 For its part, Article 25 of Directive 95/46 imposes a series of obligations on 
+Member States and on the Commission for the purposes of monitoring transfers 
+of personal data to third countries in the light of the level of protection afforded 
+to such data in each of those countries. 2003 — CASE C-101/01 
+69 If Article 25 of Directive 95/46 were interpreted to mean that there is 'transfer [of 
+data] to a third country' every time that personal data are loaded onto an internet 
+page, that transfer would necessarily be a transfer to all the third countries where 
+there are the technical means needed to access the internet. It adds that only the national court can 
+I - 13021 
+JUDGMENT OF 6. Those objectives may of course be inconsistent with one another. 83 As regards Directive 95/46 itself, its provisions are necessarily relatively general 
+since it has to be applied to a large number of very different situations. 87 Consequently, it is for the authorities and courts of the Member States not only to 
+interpret their national law in a manner consistent with Directive 95/46 but also 
+to make sure they do not rely on an interpretation of it which would be in conflict 
+with the fundamental rights protected by the Community legal order or with the 
+other general principles of Community law, such as inter alia the principle of 
+proportionality. It is for the national authorities and courts responsible 
+for applying the national legislation implementing Directive 95/46 to ensure a fair 
+balance between the rights and interests in question, including the fundamental 
+rights protected by the Community legal order. 2003 — CASE C-101/01 
+Observations submitted to the Court 
+92 The Swedish Government states that Directive 95/46 is not confined to fixing 
+minimum conditions for the protection of personal data. Member States are 
+obliged, in the course of implementing that directive, to attain the level of 
+protection dictated by it and are not empowered to provide for greater or less 
+protection. Moreover, the Member States are free to apply the principles of Directive 95/46 
+also to activities which do not fall within its scope. However, such 
+possibilities must be made use of in the manner provided for by Directive 95/46 
+and in accordance with its objective of maintaining a balance between the free 
+movement of personal data and the protection of private life. 2003 — CASE C-101/01 
+data and the protection of private life. Since these proceedings 
+are, for the parties to the main proceedings, a step in the action pending before 
+the national court, the decision on costs is a matter for that court. Jann Timmermans Gulmann 
+Cunha Rodrigues Rosas Edward 
+Puissochet Macken von Bahr 
+Delivered in open court in Luxembourg on 6 November 2003.

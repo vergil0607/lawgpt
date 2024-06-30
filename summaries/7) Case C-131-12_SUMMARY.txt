@@ -1,0 +1,69 @@
+2 The request has been m ade in proceedings between, on th e on e hand, Google Spain SL (‘Google 
+Spain’) and Google Inc. and, on th e other, the Agencia Es pañola de Protección d e Datos (Spanish 
+Data Protection A gency; ‘the AEPD’) and M r Costeja González concerning a d ecision b y the AEPD 
+upholding th e complaint lodged by M r Costeja González against those two companies and ordering 
+Google Inc. to ad opt th e me asures necessary to w ithdraw pe rsonal da ta relating to M r Costeja 
+González from its index and to prevent access to the data in the future. Each authority may be requested to exercise its powers by an authority 
+of another Member State. The supervisory authorities shall cooperate w ith on e another to th e extent necessary for th e 
+performance of their duties, in particular by exchanging all useful information. —
+ECLI:EU:C:2014 :317 7JUDGMENT O F13.5.2014 —CASEC-131/12
+GOOG LESPAINAND GOOG LE
+16 By decision o f 30 July 2010 , the AEPD r ejected the complaint in so far as it related to La Vanguardia , 
+taking the view th at the publication b y it of the information in question w as legally justified as it took 
+place upon o rder of the M inistry of Labour and Social Affairs and was intended to give m aximum 
+publicity to the auction in order to secure as many bidders as possible. 18 Google Spain and Google Inc. brought separate actions against that decision b efore th e Au diencia 
+Nacional (National High Court). If the 
+answer to th at question i s affirmative, can it be considered th at that connecting factor is 
+present when th e undertaking refuses to di sclose th e place where it stores those indexes, 
+invoking reasons of compe tition? 27 So far as concerns the activity at issue in the main proceedings, it is no t contested that the data found, 
+indexed and stored by search engines and made available to their users include information r elating to 
+identified or identifiable natural persons and thus ‘personal data’ within th e me aning of Article 2(a) of 
+that dir ective. It has indeed observed in th at regard th at a g eneral 
+derogation from th e application o f Directive 95 /46 in such a c ase would largely deprive th e dir ective 
+of its effect (see, to th is effect, C ase C -73/07 S atakunnan M arkkinapörssi and S atamedia 
+EU:C:2008 :727, paragraphs 48 a nd 49). 40 That fact does no t alter the position th at the purposes and me ans of that processing are determined by 
+the operator of the search engine. In numerous States, a 
+local version ada pted to th e national language exists. The version o f Google Search in Spanish is 
+offered th rough th e website ‘w w w .google.es’, which has been registered since 16 September 2003 . Google Search is on e of the most used search engines in Spain. — Google Search is operated by Google Inc., which is the parent company of the Google Group and 
+has its seat in the United States. Its objects are to promote, facilitate and effect the sale of 
+on-line advertising products and services to third p arties and the marketing of that advertising. 49 It is no t disputed that Google Spain engages in the effective and real exercise of activity through stable 
+arrangements in Spain. 59 Since th e first of the th ree c onditions listed by th e referring court suffices by itself for it to be 
+concluded th at an e stablishment such as G oogle Spain satisfies th e criterion l aid d own in 
+Article 4(1)(a) of Directive 95 /46, it is unnecessary to examine the other two conditions. 65 Mr Costeja González, th e Spanish, Italian and Polish Governments and th e Commission s ubmit that 
+the national authority may dir ectly order the operator of a s earch engine to withdraw from its indexes 
+and intermediate mem ory information c ontaining pe rsonal da ta th at has been published by th ird 
+parties, without having to approach beforehand or simultaneously the publisher of the web page on 
+which th at information a ppears. In th is context, th e controller must take eve ry reasonable step to ensure that data which 
+do no t mee t the requirements of that provision ar e erased or rectified. Wh ere the controller 
+does no t grant the request, th e da ta subject may bring the matter before the supervisory authority or 
+the judicial authority so th at it carries out the necessary checks a nd orders the controller to take 
+specific me asures accordingly. 87 Indeed, since the inclusion in th e list of results, displayed following a s earch m ade on th e basis of a 
+person’s name, of a w eb page and of the information c ontained on i t relating to th at person m akes 
+access to th at information a ppreciably easier for any internet user making a s earch in respect of the 
+person c oncerned and may play a d ecisive role in th e dissemination o f that information, it is liable to 
+constitute a m ore significant interference with th e da ta subject’s fundamental right to privacy than the 
+publication on th e web page. 93 It follows from th ose requirements, laid d own in Article 6(1)(c) to (e) of Directive 95 /46, that eve n 
+initially lawful processing of accurate da ta may, in th e course of time, become i ncompatible with th e 
+directive w here those da ta are no l onger necessary in th e light o f the purposes for which th ey were 
+collected or processed. That is so in particular w here they appear to be inadequate, irrelevant or no 
+longer relevant, or excessive in relation t o th ose purposes and in th e light o f the time th at has 
+elapsed. 95 So far as concerns requests as provided for by Article 12(b) of Directive 95 /46 founded on a lleged 
+non-compliance with th e conditions laid d own in A rticle 7(f) of the dir ective a nd requests under 
+subparagraph (a) of the first paragraph of Article 14 o f the dir ective, it must be pointed out that in 
+each case the processing of personal data must be authorised under Article 7 for the entire pe riod 
+during which it is carried out. 20 ECLI:EU:C:2014 :317JUDGMENT O F13.5.2014 —CASEC-131/12
+GOOG LESPAINAND GOOG LE
+96 In th e light of the foregoing, when appraising such requests made in order to oppose processing such 
+as that at issue in th e main proceedings, it should in particular be examined whether the da ta subject 
+has a ri ght th at the information r elating to him pe rsonally should, at this point in time, no l onger be 
+linked to his name b y a l ist of results displayed following a s earch made on th e basis of his name. As the da ta subject may, in th e light of his fundamental rights under Articles 7 and 8 of the Ch arter, 
+request that the information in question no l onger be made available to the general public on a ccount 
+of its inclusion in such a l ist of results, those rights override, as a r ule, not only the economic interest 
+of the operator of the search engine but also the interest of the general public in having access to that 
+information u pon a s earch relating to the data subject’s name. However, that would no t be the case if it 
+appeared, for particular reasons, such as the role played by th e da ta subject in public life, that the 
+interference with h is fundamental rights is justified by the preponderant interest of the general public 
+in having, on a ccount of its inclusion in the list of results, access to the information in question. Costs
+100 Since th ese proceedings are, for the parties to th e main proceedings, a s tep in th e action pe nding 
+before th e referring court, th e decision on c osts is a m atter for th at court. C osts incurred in 
+submitting observations to the Court, other than the costs of those parties, are no t recoverable.
